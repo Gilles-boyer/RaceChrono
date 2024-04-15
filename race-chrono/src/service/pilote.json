@@ -1,0 +1,115 @@
+{
+    "pilote": {
+        "name": "",
+        "bestTime": "",
+        "aLaSession": 0,
+        "auTour": 0,
+        "nbTours": 0,
+        "classementGénéral": "",
+        "voiture": "",
+        "categorie": "",
+        "dossard": 0,
+        "Times": [
+            {
+                "name": "Session 1",
+                "base": "Session1",
+                "times": []
+            },
+            {
+                "name": "Session 2",
+                "base": "Session2",
+                "times": []
+            },
+            {
+                "name": "Session 3",
+                "base": "Session3",
+                "times": []
+            },
+            {
+                "name": "Session 4",
+                "base": "Session4",
+                "times": []
+            },
+            {
+                "name": "Session 5",
+                "base": "Session5",
+                "times": []
+            },
+            {
+                "name": "Session 6",
+                "base": "Session6",
+                "times": []
+            },
+            {
+                "name": "Session 7",
+                "base": "Session7",
+                "times": []
+            },
+            {
+                "name": "Session 8",
+                "base": "Session8",
+                "times": []
+            },
+            {
+                "name": "Session 9",
+                "base": "Session9",
+                "times": []
+            },
+            {
+                "name": "Session 10",
+                "base": "Session10",
+                "times": []
+            },
+            {
+                "name": "Session 11",
+                "base": "Session11",
+                "times": []
+            },
+            {
+                "name": "Session 12",
+                "base": "Session12",
+                "times": []
+            },
+            {
+                "name": "Session 13",
+                "base": "Session13",
+                "times": []
+            },
+            {
+                "name": "Session 14",
+                "base": "Session14",
+                "times": []
+            },
+            {
+                "name": "Session 15",
+                "base": "Session15",
+                "times": []
+            },
+            {
+                "name": "Session 16",
+                "base": "Session16",
+                "times": []
+            },
+            {
+                "name": "Session 17",
+                "base": "Session17",
+                "times": []
+            },
+            {
+                "name": "Session 18",
+                "base": "Session18",
+                "times": []
+            },
+            {
+                "name": "Session 19",
+                "base": "Session19",
+                "times": []
+            },
+            {
+                "name": "Session 20",
+                "base": "Session20",
+                "times": []
+            }
+        ]
+    }
+}
